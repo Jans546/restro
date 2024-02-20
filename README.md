@@ -1,2 +1,7 @@
-# restro
-restaurant application has added and committed
+# Restaurant Menu Application
+
+Food Menu with Details
+
+This is tech food company which displays food items with price
+
+edited 
